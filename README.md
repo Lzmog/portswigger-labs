@@ -1,2 +1,1 @@
-# portswigger-labs
-My journey through Portswigger labs
+# My journey through Portswigger labs
