@@ -6,3 +6,4 @@ Learn to build it, then break it!
 
 * [Command Injection](command-injection.md)
 * [SQL injection](sql-injection.md)
+* [Cross-origin resource sharing (CORS)](cors.md)
